@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ---
 
 <p>
-  <img src="https://i.imgur.com/iCWgmFX.gif" width=20 height=20/> <b color="red">About Me</b>
+  <img src="https://i.imgur.com/iCWgmFX.gif" width=20 height=20/> <b color="red">About Me</b> <img src="https://i.imgur.com/iCWgmFX.gif" width=20 height=20/> 
 </p>
 
 ---

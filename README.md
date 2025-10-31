@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I’m currently working on building a modern web dashboard project using Next.js and Tailwind CSS.<br>📚 I’m currently learning backend development with Laravel and Vue to improve my full-stack skills.<br>🚀 I’m currently learning materials that focus on web APIs, automation, or UI/UX design.<br>🌱 I’m exploring how to integrate AI tools and APIs into real-world web applications.
+💻 I’m currently working on building a modern web dashboard project using Next.js and Tailwind CSS.<br>📚 I’m currently learning backend development with Laravel and Vue to improve my full-stack skills.<br>🚀 I’m currently learning materials that focus on web APIs, automation, or UI/UX design.<br>🌱 I’m exploring how to efficiently integrate AI tools and APIs into real-world web applications.
 
 
 ## 🌐 Socials:
@@ -11,6 +11,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=GCarido&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=GCarido&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GCarido&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GCarido&icon=0&color=0)](https://visitcount.itsvg.in)

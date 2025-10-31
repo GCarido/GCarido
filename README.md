@@ -1,56 +1,18 @@
-## <div align="center">Welcome to My GitHub Profile!</div>
+# 💫 About Me:
+💻 I’m currently working on building a modern web dashboard project using Next.js and Tailwind CSS.<br>📚 I’m currently learning backend development with Laravel and Vue to improve my full-stack skills.<br>🚀 I’m currently learning materials that focus on web APIs, automation, or UI/UX design.<br>🌱 I’m exploring how to integrate AI tools and APIs into real-world web applications.
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Hello+there!+Welcome+to+my+profile!;I'm+an+enthusiastic+Developer.;I+love+coding+and+designing.">
-</div>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gerald-carido-7a1b17263/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:geraldcastcarido@gmail.com) 
 
-## <div align="center">About Me</div>
-
-Hi there! I'm a fresh graduate passionate about web development. Currently, I'm focusing on frontend specialization while also exploring full-stack development. I enjoy creating user-friendly applications and am always eager to learn new technologies.
-
----
-
-## <div align="center">Tech Stack and Tools</div>
-
-<div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack+and+Tools&lineCount=3&width=510&bg=%23050F2C&badge=%23161B22&border=%2328c7ff&titleColor=%23009FEC&line1=react%2Creact%2C61DAFB%3Btailwindcss%2Ctailwind%2C06B6D4%3Bbootstrap%2Cbootstrap%2C7952B3%3Bhtml5%2Chtml%2CE34F26%3B&line2=css3%2Ccss%2C1572B6%3Bjavascript%2Cjavascript%2CF7DF1E%3Bcsharp%2Ccsharp%2C512BD4%3Bsqlite%2Csql%2C003B57%3B&line3=adobexd%2Cadobe+xd%2CFF61F6%3Bfigma%2Cfigma%2CF24E1E%3Badobephotoshop%2Cphotoshop%2C31A8FF%3Badobepremierepro%2CPremiere%2C9999FF%3B" alt="Tech Stack and Tools"/>
-</div>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=GCarido&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=GCarido&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GCarido&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=GCarido&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## <div align="center">GitHub Stats</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GCarido&show_icons=true&theme=algolia" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GCarido&theme=algolia" alt="GitHub Streak Stats"/>
-</div>
-
----
-
-## <div align="center">Projects</div>
-
-Here are some of the projects I’ve worked on:
-
-- **Project 1**: [Project Name](https://github.com/GCarido/project1) - Brief description of the project.
-- **Project 2**: [Project Name](https://github.com/GCarido/project2) - Brief description of the project.
-- **Project 3**: [Project Name](https://github.com/GCarido/project3) - Brief description of the project.
-
----
-
-## <div align="center">Connect with Me</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/gerald-carido-7a1b17263/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/your-twitter-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:geraldcastcarido@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

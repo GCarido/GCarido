@@ -1,6 +1,6 @@
 # 💫 About Me:
-💻 Learning Next.js, Tailwind CSS, and TypeScript to deepen modern front-end development expertise.<br>
-📚 Expanding backend skills with Laravel and Vue for a stronger full-stack foundation.<br>
+💻 Learning Next.js, Vue, Tailwind CSS, and TypeScript to deepen modern front-end development expertise.<br>
+📚 Expanding backend skills with Laravel for a stronger full-stack foundation.<br>
 🚀 Exploring web APIs, automation, and UI/UX design through real-world applications and documentation.<br>
 🌱 Experimenting with AI tools and APIs to create efficient, intelligent web solutions.<br>
 
